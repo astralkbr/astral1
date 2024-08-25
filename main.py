@@ -3,7 +3,7 @@ from telethon import TelegramClient, events
 
 api_id = '25181522'
 api_hash = '1831affd3f6a37f2f0cc4cd5eaf19587'
-phone_number = '+998333502255'
+phone_number = '+998930864265'
 
 # List of group and channel usernames
 group_usernames = ['JAHON_ASA', 'astral_me', 'test_1chat']  # Replace with correct usernames
